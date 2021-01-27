@@ -1,0 +1,12 @@
+header{
+    background-color: #579c87;
+    text-align: center;
+}
+header h1{
+    color:#fdcb46;
+    margin: 0;
+    padding: 15px 0;
+}
+header a{
+    text-decoration: none;
+}

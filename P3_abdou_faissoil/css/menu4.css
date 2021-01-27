@@ -1,0 +1,11 @@
+.menu{
+    background-color:#fdfffd;
+}
+.subtitle{
+    background-image: linear-gradient(to right, #42973c, #bfff7e);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+h2:hover + .loading{
+    border-bottom: 2px solid#bfff7e;
+}

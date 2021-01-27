@@ -1,0 +1,36 @@
+header
+{
+    background-color: rgb(87,156,135);
+   
+}
+
+header h1
+{
+    color:rgb(253,203,70);
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
+header a
+{
+  text-decoration: none;
+  color: #fdcb46;
+}
+.container
+{
+    margin: 3em;
+    margin: 7em;
+}
+footer
+{
+    background-color: rgb(87,156,135);
+}
+
+footer h1
+{
+    color:rgb(253,203,70);
+    text-align: center;
+    padding-block-start: 15px;
+    padding-block-end: 15px;
+    margin-bottom: 0;
+}

@@ -1,0 +1,12 @@
+.menu{
+    background-color: #fcdfdb;
+}
+i{
+    height: fit-content;
+    padding: 0 120px;
+    font-size: 35px;
+    width: fit-content;
+    background-image: linear-gradient(to right, #f15861, #f78f6a);
+    color: transparent;
+    -webkit-background-clip: text;
+}

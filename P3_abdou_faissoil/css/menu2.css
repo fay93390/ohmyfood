@@ -1,0 +1,41 @@
+.menu{
+    background-color:#fff5fe;
+}
+.color-1{
+    color: #c67412;
+}
+.color-2{
+    color: #a56799;
+}
+.color-3{
+    color: #6e4ccc;
+}
+.subtitle{
+    background-image: linear-gradient(to right, #ce7d4e, #905bfd);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+h2:hover + .loading_color-1{
+    border-bottom: 2px solid #c67412;
+    width: 300px;
+    margin: auto;
+    transform-origin: 0%;
+    transform: scaleX(0);
+    transition: transform 3000ms;
+}
+h2:hover + .loading_color-2{
+    border-bottom: 2px solid#a56799;
+    width: 200px;
+    margin: auto;
+    transform-origin: 0%;
+    transform: scaleX(0);
+    transition: transform 3000ms;
+}
+h2:hover + .loading_color-3{
+    border-bottom: 2px solid #6e4ccc;
+    width: 250px;
+    margin: auto;
+    transform-origin: 0%;
+    transform: scaleX(0);
+    transition: transform 3000ms;
+}
